@@ -43,3 +43,12 @@ end
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
+
+
+# Use ActiveAdmin for easy administration interfaces
+
+# < Rails 4
+# gem 'activeadmin'
+
+# Rails 4
+gem 'activeadmin', github: 'activeadmin'
