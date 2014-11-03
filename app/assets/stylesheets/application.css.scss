@@ -1,0 +1,19 @@
+@import "normalize";
+@import "reset";
+
+html {
+  background: #ffe800;
+  background: image-url('carpet.jpg');
+  background-size: 330px;
+}
+
+body {
+  max-width: 57em;
+  margin: 1em auto;
+  padding: 1em;
+  background: #fff;
+}
+
+h1 {
+  text-align: center;
+}

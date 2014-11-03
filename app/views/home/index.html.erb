@@ -1,0 +1,11 @@
+<h1>Bowling Tourney 2014</h1>
+<% unless @event.nil? %>
+<div class="schedule">
+  <h2><%= @event.date.strftime "%B %d, %Y" %> Lane Assignments</h2>
+  <ol>
+    <% @event.teams.each do |team| %>
+      <li><%= team.name %> </li>
+    <% end %>
+  </ol>
+</div>
+<% end %>
