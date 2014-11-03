@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  team_id: 
+  event_id: 
+  lane_number: 1
+
+two:
+  team_id: 
+  event_id: 
+  lane_number: 1

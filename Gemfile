@@ -52,3 +52,5 @@ end
 
 # Rails 4
 gem 'activeadmin', github: 'activeadmin'
+
+gem 'devise'

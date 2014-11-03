@@ -1,0 +1,2 @@
+module TeamListingsHelper
+end
